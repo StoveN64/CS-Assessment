@@ -1,0 +1,20 @@
+// Results for the tinyArray
+// insert 44 μs
+// append 113.4 μs
+
+// Results for the smallArray
+// insert 60.8 μs
+// append 143 μs
+
+// Results for the mediumArray
+// insert 196.5 μs
+// append 169.9 μs
+
+// Results for the largeArray
+// insert 9.8871 ms
+// append 751.9 μs
+
+// Results for the extraLargeArray
+// insert 1.1939409 s
+// append 3.5245 ms
+
